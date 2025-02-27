@@ -52,6 +52,6 @@ Additionally, the clustering algorithm is implemented in the `clu_algo` function
 
 # Revisiting
 08/2024 <br>
-- revisted this code and implemented the algorithm in python
+- revisted this code and implemented the algorithm in python <br>
 02/25 <br>
 - updated visualisations to make them look nicer
