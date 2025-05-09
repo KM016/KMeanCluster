@@ -40,10 +40,10 @@ The project is implemented in **R**, and the following functions were developed:
 
 - `dist_vect(x, y)`: Computes the L1 distance between two vectors.
 - `dist_mat(X, y)`: Computes the distances between a vector `y` and all rows of a matrix `X`.
-- `dist_mat_fast(X, y)`: A vectorized version of `dist_mat` for efficiency.
+- `dist_mat_fast(X, y)`: A vectorised version of `dist_mat` for efficiency.
 - `find_nearest(X, C)`: Assigns data points to the nearest cluster centers.
 - `dist_tot(X, C, cl)`: Computes the total cost (sum of distances) of the current clustering.
-- `plot_clustering(X, C, cl)`: Visualizes the clusters with data points and cluster centers.
+- `plot_clustering(X, C, cl)`: Visualises the clusters with data points and cluster centers.
 
 Additionally, the clustering algorithm is implemented in the `clu_algo` function, which runs the full clustering procedure, adjusting centers and assignments, and outputs the final cluster assignments and total cost.
 
