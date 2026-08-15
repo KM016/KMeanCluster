@@ -4,7 +4,7 @@ A from-scratch implementation of an L1-distance clustering algorithm, tested on 
 
 > University of Bristol Coursework<br>
 > **Mark:** 88/100<br>
-> Date: May 2024
+> Date: 05/2024
 
 ## Project overview
 
