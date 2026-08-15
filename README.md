@@ -49,7 +49,3 @@ Additionally, the clustering algorithm is implemented in the `clu_algo` function
 
 
 **Mark:** For this project I achieved an 88/100
-
-# Revisiting
-- 08/2024: revisted this code and implemented the algorithm in python <br>
-- 02/2025 : updated visualisations to make them look nicer
