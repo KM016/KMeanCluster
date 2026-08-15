@@ -2,9 +2,9 @@
 
 A from-scratch implementation of an L1-distance clustering algorithm, tested on simulated data and applied to pairwise views of the Iris dataset.
 
-> **University of Bristol** - MATH10017 Assessed Coursework 4 (2023/24)<br>
+> University of Bristol Coursework<br>
 > **Mark:** 88/100<br>
-> **Completed:** May 2024
+> Date: May 2024
 
 ## Project overview
 
